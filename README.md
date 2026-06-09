@@ -122,7 +122,7 @@ O site é totalmente responsivo, adaptado para:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel Souza** — 2025.
+Desenvolvido por **Gabriel Souza** — 2026.
 
 ---
 

@@ -8,7 +8,7 @@ Landing Page da **Pizza Bella** — uma pizzaria com mais de 10 anos de tradiç�
 
 Acesse o site online:
 
-🔗 **(https://pizzaria-bella10.netlify.app/)**
+🔗 **(https://pizzaria-bella01.netlify.app/)**
 
 ---
 

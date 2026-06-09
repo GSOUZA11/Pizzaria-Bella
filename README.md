@@ -1,6 +1,14 @@
 # 🍕 Pizza Bella
 
-Landing Page  da **Pizza Bella** — uma pizzaria com mais de 10 anos de tradição, desenvolvido com HTML, CSS e Bootstrap 5.
+Landing Page da **Pizza Bella** — uma pizzaria com mais de 10 anos de tradição, desenvolvido com HTML, CSS e Bootstrap 5.
+
+---
+
+## 🌐 Deploy
+
+Acesse o site online:
+
+🔗 **(https://pizzaria-bella10.netlify.app/)**
 
 ---
 
@@ -90,12 +98,12 @@ pizza-bella/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/pizza-bella.git
+git clone https://github.com/GSOUZA11/Pizzaria-Bella.git
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd pizza-bella
+cd Pizzaria-Bella
 ```
 
 3. Abra o arquivo `index.html` no navegador — sem necessidade de instalar nada.
